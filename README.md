@@ -43,6 +43,7 @@ TripMate/
 └── assets/
 
 #How to run
+
 option 1:using python
 python app.py
 
