@@ -32,6 +32,7 @@ The program displays a simple menu where the user can:
 2. View Rides
 3. Search Ride
 4. Exit
+
 #PROJECT STRUCTURE
 TripMate/
 │── index.html
